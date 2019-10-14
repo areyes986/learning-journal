@@ -8,8 +8,6 @@ Today I will learn.
 ### Definition of *Growth Mindset*
 - one's abilities can grow/develop via hard work and dedication
 
-![Alt Text](growth-mindset (1).jpg)
-
 ### 3 Reminders to Keep Myself in the Growth Mindset
 1. View failure and obstacles as **learning opportunites**
 1. Be open to criticism
