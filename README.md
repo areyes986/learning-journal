@@ -19,4 +19,3 @@ Today I will learn.
 
 [More Info](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-```**this should not be bold**```
