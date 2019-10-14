@@ -8,7 +8,7 @@ Today I will learn.
 ### Definition of *Growth Mindset*
 - one's abilities can grow/develop via hard work and dedication
 
-[Alt Text](growth-mindset (1).jpg)
+![Alt Text](growth-mindset (1).jpg)
 
 dAQAgBACAEAIAQAgBACAEAID/2Q==
 
