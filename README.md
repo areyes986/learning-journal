@@ -16,5 +16,5 @@ Today I will learn.
 ![people helping each other](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJi8JILUcmVbmER-ucoH6qZbt46e2QIBU3YzFrMlNXUJQCM61)
 
 ~~selfdoubt~~
-
+[More Info](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
