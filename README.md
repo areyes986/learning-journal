@@ -5,4 +5,4 @@ Today I will learn.
 - growth mindset
 - sandbox learning
 
-## Definition of Growth Mindset
+### Definition of Growth Mindset
