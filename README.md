@@ -12,3 +12,5 @@ Today I will learn.
 1. View failure and obstacles as **learning opportunites**
 1. Be open to criticism
 1. Be inspired by others 
+
+>hello
