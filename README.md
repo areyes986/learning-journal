@@ -5,5 +5,4 @@ Today I will learn.
 - growth mindset
 - sandbox learning
 
-definition of growth mindset
-- it is not where you start, it is where you end up
+Definition of Growth Mindset
