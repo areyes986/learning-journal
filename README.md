@@ -6,3 +6,4 @@ Today I will learn.
 - sandbox learning
 
 ### Definition of Growth Mindset
+- 
