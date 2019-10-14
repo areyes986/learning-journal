@@ -13,7 +13,7 @@ Today I will learn.
 1. Be open to criticism
 1. Be inspired by others 
 
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJi8JILUcmVbmER-ucoH6qZbt46e2QIBU3YzFrMlNXUJQCM61)
+![people helping each other](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJi8JILUcmVbmER-ucoH6qZbt46e2QIBU3YzFrMlNXUJQCM61)
 
 ~~selfdoubt~~
 
