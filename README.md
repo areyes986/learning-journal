@@ -13,5 +13,5 @@ Today I will learn.
 1. Be open to criticism
 1. Be inspired by others 
 
-Format: ![Alt Text](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
+![Alt Text](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
