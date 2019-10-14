@@ -10,8 +10,6 @@ Today I will learn.
 
 ![Alt Text](growth-mindset (1).jpg)
 
-dAQAgBACAEAIAQAgBACAEAID/2Q==
-
 ### 3 Reminders to Keep Myself in the Growth Mindset
 1. View failure and obstacles as **learning opportunites**
 1. Be open to criticism
