@@ -20,3 +20,9 @@ Some shortcuts
 - lr
 - cd ~
 - touch
+
+**A** - 'git add filename' -> stages file for commit
+  
+**C** - commit, 'git commit -m "why you made changes"'
+
+**P** - push, 
