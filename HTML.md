@@ -11,7 +11,6 @@
 A wireframe is a simple sketch of the key info that needs to go on each pg of a website. 
 - Shows hierarchy of info
 - how much space it will require
-''' <body> '''
 
 
 
