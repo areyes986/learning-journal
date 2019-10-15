@@ -44,3 +44,15 @@ Files in Git reside in three stages:
 ### What is [Github?](https://github.com/) ###
 
 It is a repository hosting service - cloud
+- A way to share code with others!
+- an online plae to store your code. (Backup is good)
+- Uses Git software to manage team's work
+
+**Repository**
+
+Repository is a collection of files that you;ve told git to pay attention to
+- usually, one project = one repository
+- really large projects might have multiple repo for diferene parts of their system
+repo can live on Github and/or computer. Github is not the only place to use Verision Control. 
+
+
