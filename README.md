@@ -8,6 +8,6 @@ Today I will learn.
 - [markdown](markdown.md)
 - [growth mindset](growth-mindset.md)
 - [Cheat Sheet](cheatsheet.md)
-- [Git](git-github.md)
+- [Git vs Github](git-github.md)
 
 
