@@ -23,6 +23,6 @@ Some shortcuts
 
 **A** - 'git add filename' -> stages file for commit
   
-**C** - commit, 'git commit -m "why you made changes"'
+**C** - commit, 'git commit -m "why you made changes"' -> creates snapshot on local machine
 
-**P** - push, 
+**P** - push, 'git push origin master' 
