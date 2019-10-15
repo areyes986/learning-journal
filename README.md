@@ -6,7 +6,8 @@ Today I will learn.
 - [growth mindset](growth-mindset.md)
 - sandbox learning
 
-
+### Definition of *Growth Mindset*
+- one's abilities can grow/develop via hard work and dedication
 
 ### 3 Reminders to Keep Myself in the Growth Mindset
 1. View failure and obstacles as **learning opportunites**
