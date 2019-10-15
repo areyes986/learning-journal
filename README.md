@@ -7,7 +7,7 @@
 Today I will learn.
 - [markdown](markdown.md)
 - [growth mindset](growth-mindset.md)
-- sandbox learning
+- [Cheat Sheet](cheatsheet.md)
 - [Git](git-github.md)
 
 
