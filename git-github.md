@@ -1,6 +1,6 @@
 # Git vs Github
 
-### What is Git? (Version control software)###
+### What is Git? (Version control software) ###
 
 - Git is a software 
 - _**Has the power for collaboration!**_
