@@ -5,7 +5,15 @@
 attributes - provide additional info about contents of an element
 - made up of two parts: **name** and a **value**
 
-'<p attribute name>="attribute value">'
+`<p attribute name>="attribute value">`
+
+ex:
+
+`<p id="singular>content</p>`
+
+`<p class="group"> group</p>`
+
+
 
 `<body>`
 - everything inside this element is shown inside the main browser window.
@@ -17,21 +25,25 @@ attributes - provide additional info about contents of an element
 `<title>`
 - contents of title are either shown in top of browser, above where you type the URLm or on the tab of the page
 
+`<ol> , <ul>` for lists, all include `<li`>
+
+`<img src="img.jpeg" alt="two white kittens in grass" title="two kittens">`
+
 Ex:
 
-`<html>` 
+```<html>
 
-    `<head>`
+    <head>
 
-        `<title> Title of page </title>`
+       <title> Title of page </title>
 
-    `</head>`
+    </head>
 
-    `<body>`
+    <body>
 
-    `</body>`
+    </body>
 
-`</htlm>`
+</htlm>```
     
 
 
