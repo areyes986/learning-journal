@@ -31,7 +31,7 @@ ex:
 
 Ex:
 
-`<html>
+``` <html>
 
     <head>
 
@@ -43,7 +43,9 @@ Ex:
 
     </body>
 
-</htlm>`
+</html>
+```
+
     
 # Process and Design # 
 1. Websites should be designed for target audience.
