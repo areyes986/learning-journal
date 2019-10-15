@@ -3,7 +3,7 @@
 ### What is Git? (Version control software)###
 
 - Git is a software 
-- **Has the power for collaboration!**
+- _**Has the power for collaboration!**_
 - Keeps hx of changes to your files
 - abilty to view, apply and remove changes
 - Keep all projects files in one repository 
@@ -12,6 +12,12 @@
 - DVCS that stores data in file system made up of *snapshots* ,"commit" creats the snapshot
 - Commits represent each successive version of file or files
 - Git "committ" is the equivalent of "Save As"
+- "add" stages for commit 
+- Each commit has a lable that points to it
+
+HEAD= The label meaning "You Are Here"
+- You can assign messages to commits
+- messages are like writing a caption for your snapshot
 
 **Local Operations**
 - allows process expediency
