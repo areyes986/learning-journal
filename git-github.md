@@ -2,6 +2,8 @@
 
 ### What is Git? ###
 
+Git is a software (Version control software)
+
 **Snapshots**
 - DVCS that stores data in file system made up of *snapshots*
 - "commit" creats the snapshot
@@ -30,5 +32,5 @@ Files in Git reside in three stages:
 
 ### What is [Github?](https://github.com/) ###
 
-It is a repository hosting service
+It is a repository hosting service - cloud
 
