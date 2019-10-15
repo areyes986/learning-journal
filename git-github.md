@@ -1,12 +1,17 @@
 # Git vs Github
 
-### What is Git? ###
+### What is Git? (Version control software)###
 
-Git is a software (Version control software)
+- Git is a software 
+- **Has the power for collaboration!**
+- Keeps hx of changes to your files
+- abilty to view, apply and remove changes
+- Keep all projects files in one repository 
 
 **Snapshots**
-- DVCS that stores data in file system made up of *snapshots*
-- "commit" creats the snapshot
+- DVCS that stores data in file system made up of *snapshots* ,"commit" creats the snapshot
+- Commits represent each successive version of file or files
+- Git "committ" is the equivalent of "Save As"
 
 **Local Operations**
 - allows process expediency
@@ -33,4 +38,3 @@ Files in Git reside in three stages:
 ### What is [Github?](https://github.com/) ###
 
 It is a repository hosting service - cloud
-
