@@ -18,15 +18,17 @@
 - Git minimizes possibility of irreversible damage
 
 #### States ####
-1. Committed
-1. Modified
-1. Staged 
+Files in Git reside in three stages:
+1. Committed - data is securely stored in local databases
+1. Modified - file has been changed but not committed to database
+1. Staged - flagged files change to be committed
 
 
 
 [Git Refererence](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 
-### Github ###
-- actual cloud location, arena
-- place where it takes place
+### What is [Github?](https://github.com/) ###
+
+It is a repository hosting service
+
