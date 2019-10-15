@@ -1,7 +1,6 @@
 # Ally's learning-journal
 
-### Definition of *Growth Mindset*
-- one's abilities can grow/develop via hard work and dedication
+My name is Ally. Hello everyone!
 
 ## Table of Contents
 Today I will learn.
