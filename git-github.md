@@ -43,7 +43,7 @@ Files in Git reside in three stages:
 
 ### What is [Github?](https://github.com/) ###
 
-It is a repository hosting service - cloud
+It is a repository hosting service(location/app/website) - cloud (computer somewhere)
 - A way to share code with others!
 - an online plae to store your code. (Backup is good)
 - Uses Git software to manage team's work
