@@ -1,8 +1,7 @@
 # HTML Structure #
-HTML -> structure
-divided into sections
 
-DOCTYPE
+# Process and Design # pg. 453
+pg 453
 
 
 
