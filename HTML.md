@@ -1,7 +1,10 @@
 # HTML Structure #
+- Hyper-text Markup Language
+- Skeleton of the website 
 
 attributes - provide additional info about contents of an element
 - made up of two parts: **name** and a **value**
+
 '<p attribute name>="attribute value">'
 
 `<body>`
@@ -14,12 +17,20 @@ attributes - provide additional info about contents of an element
 `<title>`
 - contents of title are either shown in top of browser, above where you type the URLm or on the tab of the page
 
-`<html>`
+Ex:
+
+`<html>` 
+
     `<head>`
+
         `<title> Title of page </title>`
+
     `</head>`
+
     `<body>`
+
     `</body>`
+
 `</htlm>`
     
 
@@ -38,6 +49,7 @@ A wireframe is a simple sketch of the key info that needs to go on each pg of a 
 - how much space it will require
 
 # HTML5 Layout #
+
 
 
 

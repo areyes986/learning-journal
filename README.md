@@ -8,5 +8,6 @@ My name is Ally. Hello everyone!
 - [Growth Mindset](growth-mindset.md)
 - [Cheat Sheet](cheatsheet.md)
 - [Git vs Github](git-github.md)
+- [HTML](HTML.md)
 
 
