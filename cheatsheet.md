@@ -28,3 +28,4 @@ Some shortcuts
 **C** - commit, 'git commit -m "why you made changes"' -> creates snapshot on local machine
 
 **P** - push, 'git push origin master' 
+

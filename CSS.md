@@ -14,5 +14,5 @@ Inside the curly brackets has two parts - **property** and **value** *font-famil
   1. rel - specifoes relationship between HTML page and file it is linked to. 
 
 
-# Color using CSS*
+# Color using CSS
 

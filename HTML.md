@@ -2,6 +2,17 @@
 - Hyper-text Markup Language
 - Skeleton of the website 
 
+Head - where you link the CSS, what it needs to display the page, and title. Title diplays on the tab. Part of HTML you do not see on a page
+
+Header - 
+
+Body - 3 main parts in body 
+   1. `<header>`
+   1. `<main>`
+   1. 
+
+Meta Data - information about the site that is not displayed
+
 attributes - provide additional info about contents of an element
 - made up of two parts: **name** and a **value**
 
