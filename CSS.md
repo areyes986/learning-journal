@@ -1,9 +1,20 @@
 # Intro to CSS #
 - Cascading Style Sheet 
+- it can live outside of HTML tag
+- lives in CSS folder/file, in line style, or head of HMTL file
+ - inline is most specific and will prioitize other options
+-  When building more than one page, you should use an external CSS style sheet.
 
 A CSS rule contains two parts: **selector** and **declaration**
 
 Ex: `p {font-family: arial;}` P being the selector and "{font-family: arial;}" as selector
+
+```
+p {
+    background-color:red;
+}
+```
+
 
 Inside the curly brackets has two parts - **property** and **value** ,*font-family* being the property and *arial* being the value
 
@@ -18,11 +29,17 @@ Inside the curly brackets has two parts - **property** and **value** ,*font-fami
 `<style>`
  - usually sits inside the `<head>` element of the page
 
- When building more than one page, you should use an external CSS style sheet.
-
  **CSS selectors**
  Allows you to target rules to specific elements in HTML
  - CASE SENSITIVE , element names and attribute values need to match
+
+ **Declaration**
+ **Property**
+ **Value** 
+ **Block element**
+ **Inline element**
+
+
 
 
 # Color #
