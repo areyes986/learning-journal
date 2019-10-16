@@ -21,21 +21,20 @@ Inside the curly brackets has two parts - **property** and **value** ,*font-fami
  When building more than one page, you should use an external CSS style sheet.
 
  **CSS selectors**
- - Allows you to target rules to specific elements in HTML
+ Allows you to target rules to specific elements in HTML
  - CASE SENSITIVE , element names and attribute values need to match
 
 
-# Color using CSS #
+# Color #
 
 **Text Color**
+`color` property allows you to specify the color of the text inside an element.
 
-- `color` property allows you to specify the color of the text inside an element.
+- RBG values ex: `rgb (100,100,90)`. expresses how much red, green, blue to use
 
-RBG values ex: `rgb (100,100,90)`. expresses how much red, green, blue to use
+- Hex codes ex: `#ee3e80`
 
-Hex codes ex: `#ee3e80`
-
-There are 147 colors names as well. 
+- There are 147 colors names as well. 
 
 **Background color**
 - CSS treats HTML as it appears in a *box*
@@ -51,6 +50,16 @@ Allows you to specify the opasity of an element andany of its child elements
 Allows you to specify a color like RGB but as a fourth value to indicate opacity
 - value is between 0.0 - 1.0
 - only affects the element on which it is applied, not child elements
+
+Some browsers may not recognize RGBA colors. Fallback is to display solid colors. If there are two rules that apply to the same element, the latter will take priority. To *create* the fallback, yu can specify a color as a hex code, color name, or rgb value
+
+**HSL**
+Alternative way to specify colors
+
+**HSLA**
+Allows you to specify color properties using hue, saturationm and lightness, and adds a fourth value which represents transparency.
+
+
 
 
 
