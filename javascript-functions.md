@@ -27,7 +27,7 @@ expressions rely on operators, they allow to create a single value from one or m
 
 # Functions # 
 lets you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you use a *functions*.
-kind of like *instinct* so you do not have to keep giving instuctions for same thing. 
+kind of like *instinct* so you do not have to keep giving instuctions for same thing. Avoid repetition. 
 
 *calling* is when you ask a function to perform a task. 
 
@@ -39,6 +39,21 @@ kind of like *instinct* so you do not have to keep giving instuctions for same t
 
 *function declaration*
 you give it a name then write the statements needed to achieve task inside curly braces. 
+
+Declare 2 ways
+
+1. 
+```
+function askName () {
+    //codeblock-logic
+}
+```
+1. 
+```
+var myName = function(){
+    //insert logic here
+}
+```
 
 ```
 function sayHello() {
