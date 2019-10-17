@@ -10,6 +10,6 @@ My name is Ally. Hello everyone!
 - [Git vs Github](git-github.md)
 - [HTML](HTML.md)
 - [CSS](CSS.md)
-- [Javascript](javascript.md)
-- [How Computers Work](how-computers-work.md)
+- [JavaScript](javascript.md)
+- [JavaScript Functions](javascript-functions.md)
 
