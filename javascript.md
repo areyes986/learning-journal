@@ -28,4 +28,6 @@ JS distinguishes between numbers, strings, and true or false values knows as *Bo
 
 **numeric data type** fors tasks that involve counting or calculating sums. As well as determining size of the screen, moving the position of an element on a page, or setting the amount of time an element should take to fade in.
 
-**String data type** consists of letters and other characters. String is enclosed within a pair of quotes. EX: 'Hi, Ive!'. could be either single or double. Often used 
+**String data type** consists of letters and other characters. String is enclosed within a pair of quotes. EX: 'Hi, Ive!'. could be either single or double. Often used to add new content into a page and they can contain HTML markup.
+
+**Boolean data type** can have one of two values, *true* or *false*
