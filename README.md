@@ -11,4 +11,5 @@ My name is Ally. Hello everyone!
 - [HTML](HTML.md)
 - [CSS](CSS.md)
 - [Javascript](javascript.md)
+- [How Computers Work](how-computers-work.md)
 
