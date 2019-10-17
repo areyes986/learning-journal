@@ -14,6 +14,23 @@ p {
     background-color:red;
 }
 ```
+*adding class or id*
+
+Ex:
+```
+<p class="group"> Content </p> or <p id="individual>Content</p>
+```
+```
+.group {
+    color: blue;
+}
+```
+```
+#individual {
+    color: red;
+}
+```
+
 
 
 Inside the curly brackets has two parts - **property** and **value** ,*font-family* being the property and *arial* being the value
