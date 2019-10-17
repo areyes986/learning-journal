@@ -44,13 +44,13 @@ Looks check a condition. If returned *true*, a code block will run. Condition wi
 
 Three common loops:
 
-1. For
+1. **For**
     - used if you need to run code a specific number of times (most common)
 
-1. While
+1. **While**
     - used if you do not know how many times the code should run.
 
-1. Do While
+1. **Do While**
     - similar to *while* but it will always run the statements inside the curly braces at least once, even if condition is false
 
 ## Loop Counters ##
@@ -59,23 +59,8 @@ Three common loops:
 
 Condition is makde up of three statements:
 
-1. Initialization
-1. Condition
+1. **Initialization**
+1. **Condition**
     - loop will continue to run until counter reaches the number
-1. Update
+1. **Update**
     - when loops has tun the statements in curly braces, it adds one to the counter
-
-
-if (true){
-    //do the thing;
-}
-
-loop
-
-for (this; many; time;){
-    //do the thing
-}
-
-while (true){
-    //do the thing
-}
